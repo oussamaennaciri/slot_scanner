@@ -6,7 +6,7 @@ It is specifically designed for first-time license or ID applications.
 When an appointment in **May** is found, the script will:
 - Alert you in the terminal
 - Open the DMV website in your browser
-- Play an audio file (`call_me_maybe_fixed.mp3`) to notify you
+- Play an audio file (`alarm.mp3`) to notify you
 
 ---
 
