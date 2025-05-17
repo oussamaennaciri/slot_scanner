@@ -43,7 +43,7 @@ When an appointment in **May** is found, the script will:
    ```
 
 3. Make sure the alarm file is present:
-   - File required: `call_me_maybe_fixed.mp3`
+   - File required: `alarm.mp3`
 
 ---
 
