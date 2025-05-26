@@ -12,10 +12,10 @@ When an appointment in **May** is found, the script will:
 
 ## Features
 
-- ✅ Checks multiple locations asynchronously using Playwright
-- ✅ Detects earliest available date for "First Time CO DL/ID/Permit"
-- ✅ Plays a sound and opens the browser when a May appointment is found
-- ✅ Stops searching when May 16th is available
+- Checks multiple locations asynchronously using Playwright
+- Detects earliest available date for "First Time CO DL/ID/Permit"
+- Plays a sound and opens the browser when a May appointment is found
+- Stops searching when May 16th is available
 
 ---
 
